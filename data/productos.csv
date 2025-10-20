@@ -1,0 +1,9 @@
+id,nombre,categoria,stock,precio_compra,precio_venta
+1,Vino Friulano Blanco,Bebidas,50,8,15
+2,Aceite de Oliva Extra,Alimentación,30,12,22
+3,Miel de Acacia,Alimentación,25,6,12
+4,Queso Montasio,Alimentación,40,9,18
+5,Set de Toallas,Amenities,100,15,0
+6,Jabón Artesanal,Amenities,200,2,0
+7,Mermelada de Arándanos,Alimentación,35,4,8
+8,Grappa,Bebidas,20,10,20
