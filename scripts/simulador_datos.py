@@ -134,11 +134,11 @@ def main():
     productos_df.to_csv('data/productos.csv', index=False)
     reservas_df.to_csv('data/reservas.csv', index=False)
     
-    print("✅ Datos generados exitosamente!")
-    print(f"📊 Clientes: {len(clientes_df)} registros")
-    print(f"🏠 Habitaciones: {len(habitaciones_df)} tipos")
-    print(f"🛍️ Productos: {len(productos_df)} items")
-    print(f"📅 Reservas: {len(reservas_df)} reservas")
+    print("Datos generados exitosamente!")
+    print(f"Clientes: {len(clientes_df)} registros")
+    print(f"Habitaciones: {len(habitaciones_df)} tipos")
+    print(f"Productos: {len(productos_df)} items")
+    print(f"Reservas: {len(reservas_df)} reservas")
     print("\nArchivos guardados en la carpeta 'data/'")
 
 if __name__ == "__main__":
